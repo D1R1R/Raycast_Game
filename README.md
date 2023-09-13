@@ -1,4 +1,4 @@
-<h1 align="center"> Raycast_Game <img src="https://i.gifer.com/IPQ3.gif" height="64"/></h1>
+<h1 align="center"> Raycast_Game <img src="https://i430.photobucket.com/albums/qq26/digitalimus/Hand-Pointer2_zpsbr6psns0.gif" height="64"/></h1>
 <h4 align="center"><i>About: The game was created as an education project. That game uses raycasting algorithm.</i></h4>
 <hr>
 to start the game:
