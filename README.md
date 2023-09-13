@@ -27,6 +27,6 @@ to start the game:
 ## Interface
 comming soon
 
-<a href="mailto:drredkina11@gmail.com?body=Привет!?subject=About your RayCasting game.">
+<a href="mailto:drredkina11@gmail.com?body=Привет!&subject=About your RayCasting game.">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
