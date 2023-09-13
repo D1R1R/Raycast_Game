@@ -1,5 +1,5 @@
 <h1 align="center"> Raycast_Game <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-*About: The game was created as an education project. That game uses raycasting algorithm.*
+<h3 align="center"><i>About: The game was created as an education project. That game uses raycasting algorithm.*</i></h3>
 <hr>
 to start the game:
 
