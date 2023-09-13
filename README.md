@@ -1,4 +1,4 @@
-<h1 align="center"> Raycast_Game <img src="https://i.gifer.com/KZc5.gif" height="32"/></h1>
+<h1 align="center"> Raycast_Game <img src="https://i.gifer.com/KZc5.gif" height="64"/></h1>
 <h4 align="center"><i>About: The game was created as an education project. That game uses raycasting algorithm.</i></h4>
 <hr>
 to start the game:
