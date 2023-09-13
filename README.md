@@ -1,4 +1,4 @@
-# Raycast_Game <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"> Raycast_Game <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 *About: The game was created as an education project. That game uses raycasting algorithm.*
 <hr>
 to start the game:
