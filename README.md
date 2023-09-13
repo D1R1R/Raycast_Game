@@ -8,7 +8,7 @@ to start the game:
 :white_check_mark: the code has passed all flake8 checks
 
 ## Features
-
+In the game it is possible
 - free walking on the map:
   - *raycasting mechanics*;
   - defense and attack mechanics;
@@ -19,6 +19,7 @@ to start the game:
 - creating(or logging into) an account;
 
 ## Dependencies
+The game used
 - **math;**
 - **pygame;**
 - sys;
